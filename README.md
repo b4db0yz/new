@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -33,7 +31,7 @@
     <div class="row">
       <div class="col-xs-7">
         <div class="media">
-          <div class="media-left"> <a href="#"> <img class="media-object img-rounded" src="images/115X115.gif" alt="..."> </a> </div>
+          <div class="media-left"> <a href="#"> <img class="media-object img-rounded" src="new/images/115X115.gif" alt="..."> </a> </div>
           <div class="media-body">
             <h2 class="media-heading">Web Developer</h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, neque, in, accusamus optio architecto debitis dolor animi placeat ut ab corporis laboriosam itaque. Nobis, sapiente quo dolorum ut quod possimus doloremque suscipit ad doloribus quam dolor </div>
